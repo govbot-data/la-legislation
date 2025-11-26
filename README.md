@@ -1,4 +1,4 @@
-# 🏛️ la legislation file tree
+# 🏛️ Louisiana legislation file tree
 
 Download a copy of your states legislation.
 
