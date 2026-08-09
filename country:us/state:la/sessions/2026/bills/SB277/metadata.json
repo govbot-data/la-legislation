@@ -60,6 +60,18 @@
       }
     },
     {
+      "description": "Enrolled.  Signed by the President of the Senate.",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:07:34Z"
+      }
+    },
+    {
       "description": "Received from the House without amendments.",
       "date": "2026-05-11",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -310,6 +322,17 @@
   ],
   "documents": [
     {
+      "note": "Resume Digest for SB277",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1483930",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Digest of SB277 Engrossed",
       "links": [
         {
@@ -347,7 +370,7 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:04Z",
+    "logs_latest_update": "2026-08-09T06:07:34Z",
     "text_extraction_latest_update": "2026-07-21T22:23:42.021333Z"
   }
 }

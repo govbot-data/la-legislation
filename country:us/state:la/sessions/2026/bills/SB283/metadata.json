@@ -82,6 +82,16 @@
       }
     },
     {
+      "description": "Notice House adopted the Conference Committee Report.",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:07:34Z"
+      }
+    },
+    {
       "description": "Conference Committee Report read; adopted by a vote of 29 yeas and 2 nays.",
       "date": "2026-06-01",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -616,7 +626,7 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:08Z",
+    "logs_latest_update": "2026-08-09T06:07:34Z",
     "text_extraction_latest_update": "2026-07-21T22:28:13.159471Z"
   }
 }

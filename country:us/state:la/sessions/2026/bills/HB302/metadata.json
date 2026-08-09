@@ -51,6 +51,16 @@
       }
     },
     {
+      "description": "Signed by the President of the Senate on 6/2/2026.",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:07:34Z"
+      }
+    },
+    {
       "description": "Enrolled and signed by the Speaker of the House.",
       "date": "2026-06-01",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -554,6 +564,17 @@
   ],
   "documents": [
     {
+      "note": "Resume Digest for HB302",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1484316",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Digest of CCRHB302 3264 6313, Proposed",
       "links": [
         {
@@ -635,7 +656,7 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:04Z",
+    "logs_latest_update": "2026-08-09T06:07:34Z",
     "text_extraction_latest_update": "2026-07-21T20:33:18.085999Z"
   }
 }

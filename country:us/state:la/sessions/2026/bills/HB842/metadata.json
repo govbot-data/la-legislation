@@ -95,7 +95,7 @@
     {
       "description": "Rules suspended.",
       "date": "2026-05-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -146,16 +146,6 @@
       "description": "Conference Committee report received.  Lies over under the rules.",
       "date": "2026-05-13",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:55:10Z"
-      }
-    },
-    {
-      "description": "Conference committee report received.",
-      "date": "2026-05-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -748,7 +738,7 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:10Z",
+    "logs_latest_update": "2026-08-09T06:07:34Z",
     "text_extraction_latest_update": "2026-07-21T22:32:59.363102Z"
   }
 }

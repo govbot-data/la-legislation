@@ -1,7 +1,7 @@
 {
   "action": {
-    "description": "Conference committee report received.",
-    "occurred_at": "2026-06-01",
+    "description": "Senate Committee amendments read and adopted.",
+    "occurred_at": "2026-05-26",
     "jurisdiction_id": "~{\"classification\": \"upper\"}",
     "session_id": "2026",
     "entity_type": "bill",
@@ -9,10 +9,10 @@
     "related_entities": [],
     "sources": [
       {
-        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=250671",
+        "url": "https://www.legis.la.gov/Legis/BillInfo.aspx?i=251730",
         "note": ""
       }
     ]
   },
-  "bill_id": "HB784"
+  "bill_id": "HCR67"
 }

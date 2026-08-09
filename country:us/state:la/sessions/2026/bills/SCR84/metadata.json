@@ -16,7 +16,17 @@
   ],
   "actions": [
     {
-      "description": "Enrolled.  Signed by the President of the Senate on 6/5/2026.",
+      "description": "Sent to the Secretary of State by the Secretary of the Senate on 6/2/2026.",
+      "date": "2026-06-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:07:34Z"
+      }
+    },
+    {
+      "description": "Enrolled.  Signed by the President of the Senate.",
       "date": "2026-06-01",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -24,7 +34,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:55:05Z"
+        "log_file_created": "2026-08-09T06:07:34Z"
       }
     },
     {
@@ -190,6 +200,17 @@
   ],
   "documents": [
     {
+      "note": "Resume Digest for SCR84",
+      "links": [
+        {
+          "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1483742",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Summary of House Amendments to SCR84",
       "links": [
         {
@@ -227,7 +248,7 @@
     "division_id": "ocd-division/country:us/state:la"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:55:05Z",
+    "logs_latest_update": "2026-08-09T06:07:34Z",
     "text_extraction_latest_update": "2026-07-21T21:53:35.799189Z"
   }
 }
